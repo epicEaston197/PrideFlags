@@ -144,9 +144,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="15.483407"
-     inkscape:cx="57.997571"
-     inkscape:cy="63.777953"
+     inkscape:zoom="8.0520838"
+     inkscape:cx="51.539454"
+     inkscape:cy="64.51746"
      inkscape:window-width="1896"
      inkscape:window-height="989"
      inkscape:window-x="20"
@@ -193,7 +193,10 @@
   <g
      id="layer1"
      inkscape:label="violet"
-     transform="matrix(1.3678268,0,0,1.3678268,-0.53723544,-0.46904257)">
+     transform="matrix(1.3678268,0,0,1.3678268,-0.53723544,-0.46904257)"
+     inkscape:export-filename="../PNGs/Color_128/Color_128_PrideFlag_Sapphic.png"
+     inkscape:export-xdpi="98.96907"
+     inkscape:export-ydpi="98.96907">
     <g
        id="g5"
        inkscape:label="center"
