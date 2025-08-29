@@ -7,6 +7,9 @@
    id="svg4"
    sodipodi:docname="Color_PrideFlag_Sapphic.svg"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:export-filename="../PNGs/Color_1024/Color_1024_PrideFlag_Sapphic.png"
+   inkscape:export-xdpi="768"
+   inkscape:export-ydpi="768"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -144,9 +147,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="8.0520838"
-     inkscape:cx="51.539454"
-     inkscape:cy="64.51746"
+     inkscape:zoom="6.0076094"
+     inkscape:cx="57.177486"
+     inkscape:cy="61.838241"
      inkscape:window-width="1896"
      inkscape:window-height="989"
      inkscape:window-x="20"
@@ -165,7 +168,7 @@
   </mask>
   <g
      mask="url(#m)"
-     transform="scale(0.97)"
+     transform="matrix(0.97,0,0,0.97,0.046875,0.046875)"
      transform-origin="center"
      id="g4"
      inkscape:export-filename="Color_1024_PrideFlag_Sapphic.png.png"
@@ -176,24 +179,30 @@
        height="3"
        fill="#6b8e3a"
        id="rect2"
-       style="fill:#fd8ba8;fill-opacity:1" />
+       style="fill:#fd8ba8;fill-opacity:1"
+       x="0"
+       y="0" />
     <rect
        width="3"
        height="2"
        fill="#ffffff"
-       id="rect3" />
+       id="rect3"
+       x="0"
+       y="0" />
     <rect
        width="3"
        height="1"
        fill="#b899dd"
        id="rect4"
        inkscape:label="rect4"
-       style="fill:#fd8ba8;fill-opacity:1" />
+       style="fill:#fd8ba8;fill-opacity:1"
+       x="0"
+       y="0" />
   </g>
   <g
      id="layer1"
      inkscape:label="violet"
-     transform="matrix(1.3678268,0,0,1.3678268,-0.53723544,-0.46904257)"
+     transform="matrix(1.3678268,0,0,1.3678268,-0.49036044,-0.42216757)"
      inkscape:export-filename="../PNGs/Color_128/Color_128_PrideFlag_Sapphic.png"
      inkscape:export-xdpi="98.96907"
      inkscape:export-ydpi="98.96907">
