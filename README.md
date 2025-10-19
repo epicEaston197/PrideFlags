@@ -2,30 +2,30 @@
 These are LGBTQ+ pride flag icons. We've made these specifically for Resonite - a social VR sandbox platform where you can build anything in-game ( https://resonite.com ) to allow users assign these to their profile and display them on their name badges.
 
 <p align="center">
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_Agender.png" alt="Agender" />
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_Asexual.png" alt="Asexual" />
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_Bigender.png" alt="Bigender" />
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_Bisexual.png" alt="Bisexual" />
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_Demigender.png" alt="Demigender" />
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_Demisexual.png" alt="Demisexual" />
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_Genderfluid.png" alt="Genderfluid" />
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_Genderqueer.png" alt="Genderqueer" />
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_GilbertBaker.png" alt="Gilbert Baker" />
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_Intersex-InclusiveProgress.png" alt="Intersex-Inclusive Progress" />
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_Intersex.png" alt="Intersex" />
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_Lesbian.png" alt="Lesbian" />
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_Nonbinary.png" alt="Nonbinary" />
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_Pansexual.png" alt="Pansexual" />
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_Philadelphia.png" alt="Philadelphia" />
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_Polyamory.png" alt="Polyamory" />
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_Polysexual.png" alt="Polysexual" />
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_Progress.png" alt="Progress" />
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_Queer.png" alt="Queer" />
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_QueerPeopleOfColor.png" alt="Queer People of Color" />
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_Traditional.png" alt="Traditional" />
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_TransInclusiveGayMens.png" alt="Trans Inclusive Gay Mens" />
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_Transgender.png" alt="Transgender" />
-  <img src="https://github.com/Yellow-Dog-Man/PrideFlags/raw/be819c041065fc26274181e7a948a6cc703866ed/PNGs/Color_128/Color_128_PrideFlag_TwoSpirit.png" alt="Two Spirit" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_Agender.png" alt="Agender" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_Asexual.png" alt="Asexual" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_Bigender.png" alt="Bigender" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_Bisexual.png" alt="Bisexual" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_Demigender.png" alt="Demigender" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_Demisexual.png" alt="Demisexual" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_Genderfluid.png" alt="Genderfluid" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_Genderqueer.png" alt="Genderqueer" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_GilbertBaker.png" alt="Gilbert Baker" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_Intersex-InclusiveProgress.png" alt="Intersex-Inclusive Progress" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_Intersex.png" alt="Intersex" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_Lesbian.png" alt="Lesbian" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_Nonbinary.png" alt="Nonbinary" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_Pansexual.png" alt="Pansexual" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_Philadelphia.png" alt="Philadelphia" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_Polyamory.png" alt="Polyamory" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_Polysexual.png" alt="Polysexual" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_Progress.png" alt="Progress" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_Queer.png" alt="Queer" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_QueerPeopleOfColor.png" alt="Queer People of Color" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_Traditional.png" alt="Traditional" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_TransInclusiveGayMens.png" alt="Trans Inclusive Gay Mens" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_Transgender.png" alt="Transgender" />
+  <img src="PNGs/Color_128/Color_128_PrideFlag_TwoSpirit.png" alt="Two Spirit" />
 </p>
 
 # Why make this?
