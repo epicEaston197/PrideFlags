@@ -51,7 +51,8 @@ async Task<string> RenderSVGFromPathToPNG(string inputPath)
     return renderedPath;
 }
 
-Image ProcessImageFromPath(string input, double scale) {
+Image ProcessImageFromPath(string input, double scale)
+{
     using var image = Image.NewFromFile(input, access: Enums.Access.Random);
     return ProcessImage(image, scale);
 }
@@ -66,21 +67,24 @@ Image ProcessImage(Image input, double scale)
 void RenderSVGFromPath(string inputPath, double size)
 {
     Console.WriteLine($"Rendering: {inputPath}");
-    
-    if(size > SVG_RENDER_SIZE)
+
+    if (size > SVG_RENDER_SIZE)
     {
-    		throw new Exception($"Processed PNG size '{size}' can't be larger than 'SVG_RENDER_SIZE' of '{SVG_RENDER_SIZE}'");
-    	}
-    	
+        throw new Exception($"Processed PNG size '{size}' can't be larger than 'SVG_RENDER_SIZE' of '{SVG_RENDER_SIZE}'");
+    }
+
     var scale = size / SVG_RENDER_SIZE;
-    
+
     // handle the `Color_` part of the name
-    if(Path.GetFileNameWithoutExtension(inputPath).Split(['_'], 2) is [var kind, var name]) {
-		var outName = $"{kind}_{size}_{name}";
-	    using var processedImage = ProcessImageFromPath(inputPath, scale);
-	    processedImage.WriteToFile($"PNGs/{kind}_{size}/{outName}.png");
-	    Console.WriteLine($"Finished: {inputPath}");
-    } else {
+    if (Path.GetFileNameWithoutExtension(inputPath).Split(['_'], 2) is [var kind, var name])
+    {
+        var outName = $"{kind}_{size}_{name}";
+        using var processedImage = ProcessImageFromPath(inputPath, scale);
+        processedImage.WriteToFile($"PNGs/{kind}_{size}/{outName}.png");
+        Console.WriteLine($"Finished: {inputPath}");
+    }
+    else
+    {
         throw new Exception($"Expected at least one '_' in the SVG name for '{inputPath}'");
     }
 }
@@ -90,9 +94,9 @@ rootCommand.SetAction(async parseResult =>
 {
     var svgPath = parseResult.GetValue(inOption)!;
 
-	// processing 4K images can be a heavy operation
-	// a limit of 6 is what worked best for me on my machine
-	// - bree
+    // processing 4K images can be a heavy operation
+    // a limit of 6 is what worked best for me on my machine
+    // - bree
     var parallelOptions = new ParallelOptions()
     {
         MaxDegreeOfParallelism = 6
@@ -100,14 +104,17 @@ rootCommand.SetAction(async parseResult =>
 
     var isPathDirectory = File.GetAttributes(svgPath).HasFlag(FileAttributes.Directory);
 
-    if(isPathDirectory) {
+    if (isPathDirectory)
+    {
         await Parallel.ForEachAsync(Directory.EnumerateFiles(svgPath), parallelOptions, async (inputPath, token) =>
         {
             var renderedSVGPath = await RenderSVGFromPathToPNG(inputPath);
             RenderSVGFromPath(renderedSVGPath, 1024);
             RenderSVGFromPath(renderedSVGPath, 128);
         });
-    } else {
+    }
+    else
+    {
         var renderedSVGPath = await RenderSVGFromPathToPNG(svgPath);
         RenderSVGFromPath(renderedSVGPath, 1024);
         RenderSVGFromPath(renderedSVGPath, 128);
