@@ -9,7 +9,7 @@
     <rect width="5" height="3" fill="#ffffff" />
     <rect width="5" height="2" fill="#93dcff" />
     <rect width="5" height="1" fill="#93ffb9" />
-    <g id="icon" transform="translate(2.5 0.2) scale(0.018)">
+    <g id="icon" transform="translate(2.5 0.36) scale(0.017)">
       <path
         fill="white"
         d="M0 159.6ZM0 151.1C-22.5 151.1-40.9 169.5-40.9 192S-22.5 232.8 0 232.8 40.9 214.5 40.9 192 22.5 151.1 0 151.1ZM57.2 149.4H27.9V151.7C67.7 173.7 49.8 240.5 0 240.5S-65.6 172.6-27.9 151.7V149.4H-57.2L0 26.3Z" />
